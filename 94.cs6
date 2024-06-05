@@ -1,0 +1,35 @@
+^Ovládací panel s nápovìdou
+^Nápovìda k rozhraní
+^XXX Knoflík oplzlosti
+^Kliknutím sem stáhnìte nabídku Hry.
+^Kliknutím sem stáhnìte nabídku Voleb.
+^Kliknutím sem jste stáhli nabídku Pomoci.
+^Kliknutím sem se kurzor zmìní na otazník. Pøejeïte otazníkem po ostatních oblastech, abyste se dozvìdìli, co dìlají. Až budete hotovi, kliknutím kamkoli znovu tyto zprávy vypnete.
+^Toto jsi ty, Larry Laffer. (smutná pravda)
+^Kliknutím sem se vrátíte do hry.
+^Tento ovladaè hlasitosti upravuje hlasitost hudby vaší zvukové karty. Nemá vliv na hlasitost digitálních samplù a øeèi. Kromì toho mùžete hudbu vypnout bez vlivu na øeè stisknutím klávesy F2.
+^Otoèením tohoto knoflíku Detail ve smìru hodinových ruèièek se mùže zvýšit množství náhodných animací. Jeho snížení mùže zrychlit bìh hry.
+^Tímto knoflíkem otáèejte ve smìru hodinových ruèièek (nebo stisknìte "+"), aby Larry chodil rychleji. Otáèením proti smìru hodinových ruèièek (nebo stisknutím tlaèítka "-") ho zpomalíte. Stisknutím "=" ho vrátíte na normální rychlost.
+^Jestliže jste rychlí ètenáøi, otoète tento knoflík Rychlost textu ve smìru hodinových ruèièek; text ve høe se bude vypisovat rychleji. Chcete-li, aby "zùstal stát déle!", snižte toto nastavení.
+^Pokud je tu tváø, jde o osobu s kterou mluviš.
+^Toto je hlavní okno hry. V nìm se odehrává veškerá akce.
+^Táhnutím tohoto posuvníku myší si mùžete prohlédnout text, který jste poslednì slyšeli.
+^Toto okno inventáøe zobrazuje pøedmìty, které máte u sebe. Chcete-li je ve høe použít, kliknìte nejprve na kurzor Vezmi, pak kliknìte na kurzor Vezmi na nìkterý z objektù inventáøe a poté kliknìte na tento objekt na nìco v hlavním oknì hry nebo i na jiné objekty inventáøe.
+^Kliknutím sem pøepnete na kurzor Pøesun a poté kliknìte na kurzor Pøesun v hlavním oknì hry. Larry pøejde na dané místo (nebo co nejblíže k nìmu). Pokud máte dvoutlaèítkovou myš, kliknutím na pravé tlaèítko projdete všechny dostupné kurzory. Pokud máte tøítlaèítkovou myš, kliknutím na prostøední tlaèítko pøepínáte mezi kurzorem Pøesun a kurzorem, který jste použili døíve.
+^Kliknutím na toto místo se pøepnete na kurzor Podívej a poté kliknutím na kurzor Podívej v hlavním oknì hry se mùžete podívat na vìci.
+^Kliknutím sem se pøepnete na kurzor Mluv a poté kliknutím na kurzor Mluv na postavách v hlavním oknì hry s nimi mùžete mluvit.
+^Kliknutím sem se pøepnete na kurzor Ruka a poté kliknutím na kurzor Ruka v hlavním oknì hry provedete rùzné úkony.
+^Kliknutím sem se pøepnete na kurzor Vezmi a poté kliknutím na kurzor Vezmi v hlavním oknì hry pøidáte vìci do inventáøe.
+^Kliknutím sem pøepnete na kurzor Zipper a poté kliknìte na svùj Zipper v hlavním oknì hry. Pokud nechápete proè, koupili jste si špatnou hru!
+^Když se na tomto místì nachází ikona, kliknutím na ni se "pøetoèíte" do další interaktivní èásti hry.
+^Kliknutím sem opustíte souèasnou scénu.
+^Když je na tomto místì viditelná šipka, kliknutím na ni se zobrazí další objekty inventáøe.
+^Tady je poèet bodù, které jste dosud získali. Je možné získat 1 000 bodù.
+^Stisknutím tohoto tlaèítka se vrátíte zpìt k textu, který jste nedávno slyšeli.
+^Kliknutím sem (nebo stisknutím klávesy Ctrl-C) vyvoláte ovládací panel.
+^Kliknutím a pøetažením sem spustíte panel nabídek. 
+^Jedním kliknutím tuto zprávu vymažete. Kurzor se zmìní na otazník. Pøejeïte otazníkem po ovládacím panelu a zjistìte, co jednotlivé knoflíky dìlají. Dalším kliknutím tato hlášení vypnete.
+
+Funkce Uložit, Obnovit, Restartovat a Ukonèit se nyní nacházejí v rozbalovacích nabídkách nad hlavním oknem hry.
+^Stisknutím tohoto tlaèítka se posunete vpøed v pamìti textu.
+^Toto okno mùže obsahovat text, který jste nedávno slyšeli. Text mùžete vypnout a zapnout prostøednictvím nabídky "Volby".
