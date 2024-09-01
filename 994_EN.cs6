@@ -1,0 +1,10 @@
+^Cancel
+^Change Directory
+^Your save game disk is full.  You must either use another disk or save over an existing saved game. 
+^GAME
+^Insert the %s disk in drive %s.
+^%s
+is not a valid directory. 
+^OK 
+^SAVE GAME 
+^That game was saved under a different interpreter.  It cannot be restored.
