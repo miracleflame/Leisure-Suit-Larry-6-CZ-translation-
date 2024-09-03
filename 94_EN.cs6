@@ -1,0 +1,24 @@
+^Control Panel Help
+^Click once to clear this message. Your cursor will change into a Question Mark. Pass the Question Mark over the Control Panel to learn what each knob does. Click again to turn off these messages.
+
+Save, Restore, Restart and Quit are now located in the pull-down menus above the main game window.
+^Click here (or press Ctrl-C) to bring up the Control Panel.
+^Turning this Detail knob clockwise may increase the amount of incidental animation. Lowering it may make your game run faster.
+^Click here to change to the Hand cursor, then click the Hand cursor in the main game window to do things.
+^Click here to leave the present scene.
+^When an icon is in this location, clicking it will "Fast Forward" you to the next interactive part of the game.
+^This is the main game window. It's where all the action takes place.
+^Clicking here changed your cursor into the Question Mark. Pass your Question Mark over the other areas to learn what they do. When you are done, click again anywhere to turn off these messages.
+^This Inventory Window shows the objects you are carrying. To use them in the game, first click on the Take cursor, then click the Take cursor on an Inventory Object, then click that Object on something in the main game window or even on other Inventory Objects.
+^When an arrow is visible in this location, clicking it will display more Inventory objects.
+^Click here to change to the Look cursor, then click the Look cursor in the main game window to look at things.
+^Click and drag here to bring down the Menu Bar. 
+^Click here to return to the game.
+^This is the number of points you have earned so far. There are 1,000 points possible.
+^Turn this knob clockwise (or press "+") to make Larry walk faster. Turn it counterclockwise (or press "-") to slow him down. Press "=" to return him to normal speed.
+^Click here to change to the Take cursor, then click the Take cursor in the main game window to add things to your Inventory.
+^Click here to change to the Talk cursor, then click the Talk cursor on characters in the main game window to speak with them.
+^Turn this Text Speed knob clockwise if you are a fast reader; the game's text will clear more rapidly. Decrease the setting to "make it stay up longer!"
+^This Volume Control adjusts the volume of your sound card's music. It does not affect the volume of digital samples and speech. In addition, you may turn off the music without affecting the speech by pressing F2.
+^Click here to change to the Move cursor, then click the Move cursor in the main game window. Larry will walk to that spot (or as close to it as he can). If you have a two-button mouse, click the right button to cycle through all the available cursors. If you have a three-button mouse, click the middle button to switch between the Move cursor and the cursor you used previously.
+^Click here to change to the Zipper cursor, then click your Zipper in the main game window. If you don't understand why, you've purchased the wrong game!

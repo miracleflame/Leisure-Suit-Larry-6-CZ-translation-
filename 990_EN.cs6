@@ -1,0 +1,24 @@
+^ Cancel 
+^Change
+Directory
+^ Delete 
+^ No 
+^Cancel
+^OK
+^Replace
+^Restore
+^  Save  
+^Yes
+^Are you sure you want to
+delete this saved game?
+^Restore a Game
+^Save a Game
+^%s
+is not a valid directory. 
+^This directory/disk can hold no more saved games.  You must replace one of your saved games or use Change Directory to save on a different directory/disk.
+^New save-game directory:
+^Replace
+^with:
+^You must type a description for the game.
+^Select the game that you would like to restore.
+^Type the description of this saved game.
