@@ -48,8 +48,8 @@
 ^Ne. Máme limity, víte?! Co jste udìlal s tím posledním? Už jste nìkdy uvažoval o "sebeovládání"?!
 ^Ups! Nashle!
 ^Úklid. Mohu vám nìjak pomoci?
-^Ano. Všiml jsem si, že máte nìco, èemu se øíká "rozestýlací služba". Je to nìco, o co musím požádat? Obvykle nemám problém s rozestláním!XXXXturn down - rozestýlání, nebo odmítnutí (s tím nemá Larry problém být odmítnut)
-^Ano, zaøidíme to, pane Laffere. Poznamenám si to. Dnes veèer vám na polštáøi necháme malý dárek!
+^Ano. Všiml jsem si, že máte nìco, èemu se øíká "rozesírací služba". Je to nìco, o co musím požádat? Obvykle nemám problém nìco rozesrat!
+^Pane Laffere, je to ROZESTÝLACÍ služba. Ale zaøídíme, poznamenám si to. Dnes veèer vám na polštáøi necháme malý dárek!
 ^Och, pane jo! Miluju dárky.
 ^Je nám líto, ale tento telefon nemá oprávnìní pro místní hovor.
 ^Je nám líto, ale tento telefon nemá oprávnìní pro mezimìstský hovor.
@@ -287,7 +287,7 @@ ErrNum: 134802,69
 ^Momentálnì nejsem u telefonu, ale pokud zanecháte své jméno, telefonní èíslo a krátkou zprávu, ozvu se vám, jakmile opravím tenhle kód!
 ^Nejsme u telefonu, ale zanechte vzkaz a my vám zavoláme.
 ^Úklid. Mohu vám nìjak pomoci?
-^Myslím, že jsem požádal o vaši "exkluzivní" službu rozestýlání?XXXXturn down
+^Myslím, že jsem požádal o vaši "exkluzivní" rozestýlací službu.
 ^Ano, ano, pane Laffere. Už brzy nìkdo pøijde do vašeho pokoje. Ale možná to nevíte - naše pokojské mají pøísné pokyny, aby nikdy nerušily hosty, když jsou ve svých pokojích.
 ^Jsem si jistá, že jakmile opustíte místnost, pokojská nepozorovanì vklouzne dovnitø a postará se o to.
 ^Nejspíš nejsem zvyklý na kvalitní služby. Dobøe. Díky.
@@ -334,7 +334,7 @@ ErrNum: 134802,69
 ^(Zatracení hosté!) Chci øíct: Dìkuji za zavolání!
 ^(Kruci!)
 ^Úklid. Mohu vám nìjak pomoci?
-^Zdravím. Pøed chvílí jsem si objednal vaši exkluzivní službu "rozestýlání".XXXXturn down
+^Zdravím. Pøed chvílí jsem si objednal vaši exkluzivní službu "rozestýlání".
 ^Ano. Je všechno v poøádku?
 ^No, to ano, pøedpokládám, že je. Moje postel byla rozestláná. Ale služebná asi musela ztratit jeden ze svých mátových bonbónù, nebo tak nìco. Na polštáøi mi nìco leží!
 ^Ach, tak? To je vaše. Je to malá pozornost hotelu.
