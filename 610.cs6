@@ -70,7 +70,7 @@
 ^Pane, není nutné nás o tom AŽ TAKTO informovat! Na shledanou.
 ^Údržba budov, úpravy terénu a pozemkù. Mohu vám s nìèím pomoci?
 ^Ne, asi ne. Ale pokud zjistím nìjakou závadu, je tohle èíslo, na které mám volat?
-^Ano, pane. Zde v La Costa Lotta se velmi snažíme, aby byl váš pobyt dokonalý ve všech smìrech. Pokud je nìco v nepoøádku, cokoliv, neváhejte nám kdykoliv zavolat, ve dne i v noci!
+^Ano, pane. Zde v La Costa Lotta se velmi snažíme, aby byl váš pobyt dokonalý ve všech smìrech. Pokud je nìco v nepoøádku, cokoliv, neváhejte nám kdykoliv zavolat, ve dne i v noci, i ze spánku!
 ^Dobøe, díky. Budu si to pamatovat.
 ^Údržba budov, úpravy terénu a pozemkù. Mohu vám s nìèím pomoci?
 ^Ano. Poøád mám hnìdou vodu!
@@ -124,7 +124,7 @@ Stisknìte # pro potvrzení nebo * pro zrušení.
 ^Dìláte si srandu, že? Tyhle blbosti máme v nabídce už roky a NIKDO si je nikdy neobjedná!
 ^Vybrali jste 3, snídanì alá praseèina.
 
-No, to jsi celý ty? Pøijdeš si do drahých lázní, aby ses pokusil shodit to své velké pandìro, a co udìláš? Jakmile zjistíš, že máš co do èinìní se strojem, který se ti nebude smát, objednáš si výkrm! No, hanba ti!
+No, to se vám podobá! Pøijdete si do drahých lázní, aby jste se pokusili shodit to své velké pandìro, a co udìláte? Jakmile zjistíte, že máte co do èinìní se strojem, který se vám nebude smát, objednáte si výkrm! No, hanba vám!
 ^Pro pokání stisknìte 1.
 Pro návrat zpìt stisknìte 2.
 Pro pøipojení do skupiny Hlídaèi váhy stisknìte 3!
@@ -134,7 +134,7 @@ Stisknìte # pro potvrzení nebo * pro zrušení.
 ^Co kdybychom k tomu poslali nìjakou èokoládu?
 
 Stisknìte # pro potvrzení nebo * pro zrušení.
-^Pochybuji, že tì mají zapsaného. Rozbil bys jim statistiku!
+^Pochybuji, že vás mají zapsaného. Rozbili byste jim statistiky!
 
 Stisknìte # pro potvrzení nebo * pro zrušení.
 ^Vybrali jste 2, obìd.
@@ -254,15 +254,15 @@ Pro další možnostiy stisknìte 5.
 ^TOTO NETISKNÌTE, VYTISKNÌTE NÁHODNÉ MSG Z 611.MSG
 ^Pøeji hezký den.
 ^Recepce, s èím vám mohu pomoci?
-^Gammie? Jsi to ty?
-^Ano, jsem. Pracuji tady. Myslela jsem, že to víš.
+^Gammie? Jste to vy?
+^Ano, jsem. Pracuji tady. Myslela jsem, že to víte.
 ^Uhm, ano. Zdravím, to jsem já. Larry. Larry Laffer.
 ^Ano, pane. Vidím to na poèítaèi. Jak vám mohu pomoci?
-^Proè? Dìje se nìco?
-^Poèkejte chvilku. Nevolal jste mi už?
-^Ech? No, volal.
+^Proè? Je tu nìco v nepoøádku?
+^Moment. Nevoláte vy mì?
+^Ech? No, volám.
 ^Takže? Co chcete?
-^Co chci? A co máš? Hej! Naznaèuješ snad nìco...
+^Co chci? A co máte? Hele! Naznaèujete snad nìco...
 ^Už musím jít. Ráda jsem si s vámi zase popovídala, pane Laffere.
 ^Hej! Jestli se mnou nechcete mluvit, tak mi pøestaòte volat!
 ^(PRO SEBE) (Blbeèku.)
